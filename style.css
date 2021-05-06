@@ -1,0 +1,14 @@
+input{
+    border: 1px solid #000;
+    outline: 0;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100%;
+}
+
+h5{
+    color: white;
+}
+.container{
+    margin-top: 18%;
+}
